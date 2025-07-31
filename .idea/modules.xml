@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Capitulo01/Capitulo01.iml" filepath="$PROJECT_DIR$/Capitulo01/Capitulo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo01/CursoLogicaCapitulo01.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo01/CursoLogicaCapitulo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo02/CursoLogicaCapitulo02.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo02/CursoLogicaCapitulo02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algaworks.iml" filepath="$PROJECT_DIR$/.idea/algaworks.iml" />
     </modules>
   </component>
