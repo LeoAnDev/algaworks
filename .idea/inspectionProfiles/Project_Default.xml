@@ -752,11 +752,6 @@
     <inspection_tool class="ComparisonOfShortAndChar" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ComparisonToNaN" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ComplexRedundantLet" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-    <inspection_tool class="ComposeErroneousRelation" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="ComposeMissingKeys" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="ComposeUnknownKeys" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="ComposeUnknownValues" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="ComposeUnquotedPorts" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="ConditionCoveredByFurtherCondition" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ConditionSignal" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ConditionalBreakInInfiniteLoop" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -925,15 +920,6 @@
     <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="DjangoUrlArgumentsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DockerFileAddOrCopyPaths" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DockerFileArgumentCount" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="DockerFileAssignments" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="DockerFileCopyHeredoc" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="DockerFileDuplicatedStageName" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="DockerFileEntrypointWithoutExec" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="DockerFileHeredocDelimiters" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="DockerFileRunCommandMissingContinuation" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="DockerJsonFormStringLiterals" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DocumentWriteJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DollarSignInName" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1268,9 +1254,6 @@
     <inspection_tool class="HardwiredNamespacePrefix" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="HasPlatformType" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="HashCodeUsesNonFinalVariable" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="HelmChartMissingKeys" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="HelmChartUnknownKeys" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="HelmChartUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="HibernateConfigDomFacetInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="HibernateConfigDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="HibernateFindAnnotationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -1603,16 +1586,6 @@
     <inspection_tool class="KotlinUnusedImport" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="KtorOpenApiUpdate" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="KtorYamlConfig" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesDeprecatedKeys" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesDeprecatedResources" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesDeprecatedValues" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesDuplicatedEnvVars" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="KubernetesMissingKeys" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="KubernetesNonEditableKeys" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesNonEditableResources" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesUnknownKeys" enabled="false" level="ERROR" enabled_by_default="false" />
-    <inspection_tool class="KubernetesUnknownResourcesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="KubernetesUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="LabeledStatement" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="LabeledStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="LambdaBodyCanBeCodeBlock" enabled="false" level="INFORMATION" enabled_by_default="false" />
