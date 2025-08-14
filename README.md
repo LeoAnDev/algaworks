@@ -2,10 +2,11 @@
 Formação Java - AlgaWorks
 
 # Continuar a partir de:
-5- Estruturas de decisão<br>
-5.1- introdução a estrutura de decisão<br> 
+6- Iteração<br>
+6.1- Introdução a iteração<br> 
 
 # Concluído
+5- Estruturas de decisão<br>
 4- Operadores<br>
 3- Variáveis e constantes<br>
 2- Começando<br>
